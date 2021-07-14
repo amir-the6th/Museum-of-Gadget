@@ -92,4 +92,10 @@ body {
   #headingGroup h1 {
     font-size: 3rem;
   }
+  #mainNavbar .nav-link {
+    color: #cc88c5;
+  }
+  #mainNavbar .navbar-brand {
+    color: #cc88c5;
+  }
 }
